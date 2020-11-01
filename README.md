@@ -1,6 +1,6 @@
-# Test 6 - BOOMBA
+# Test 7
   # License: 
-    [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+    [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
   
   # Description
@@ -12,7 +12,7 @@
   - [Usage](#Usage)
   - [Contributions](#Contributions)
   - [Tests](#Tests)
-  - [Q&A](#Question?)
+  - [Q&A](#Questions?)
 
 
   # Installation
@@ -28,8 +28,9 @@
   Default value was used
 
   # Questions?
-  Please contact henry.ford@gmail.com for questions
-  Github: https://github.com/henryford
+  - Please contact henry.ford@gmail.com for questions
+
+  - Github: https://github.com/henryford
 
 
   
