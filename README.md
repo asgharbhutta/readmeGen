@@ -1,10 +1,10 @@
-# p
+# Generator
 
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
   
   # Description
-  Default value was used
+  It generates a README.md through CLI
 
   # Table of Contents
   - [Description](#Description)
@@ -16,21 +16,21 @@
 
 
   # Installation
-  Default value was used
+  clone and node index.js
 
   # Usage
-  Default value was used
+  for fun!
 
   # Contributions
-  Default value was used
+  Asghar Bhutta
 
   # Tests
-  Default value was used
+  none, I am perfect!
 
   # Questions?
-  - Please contact henry.ford@gmail.com for questions
+  - Please contact asghar.bhutta@gmail.com for questions
 
-  - Github: https://github.com/henryford
+  - Github: https://github.com/asgharbhutta
 
 
   
